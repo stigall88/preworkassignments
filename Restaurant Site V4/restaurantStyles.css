@@ -1,0 +1,31 @@
+#header {
+    text-align: center;
+}
+
+a:link {
+    text-decoration: none;
+    color: black;
+}
+
+#footer {
+    text-align: center;
+}
+a:link {
+    color: red;
+}
+a:visited {
+    color: teal;
+}
+a:hover {
+    font-weight: bold;
+}
+thead {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-weight: bold;
+    color: royalblue;
+    text-align: center;
+}
+table#beverages {
+    width: 38%;
+    margin: 12px;
+}    
