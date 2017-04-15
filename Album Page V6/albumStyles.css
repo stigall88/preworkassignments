@@ -1,0 +1,35 @@
+p {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+}
+
+#paragraph {
+    text-align: center;
+}
+
+caption {
+    font-size: 20px;
+    text-align: center;
+    color: red;
+}
+a:link {
+    color: orange;
+    text-decoration: none;
+}
+a:visited {
+    color: royalblue;
+}
+a:hover {
+   color: red;
+   text-decoration: underline;
+   background-color: lightblue;
+}
+tbody {
+    background-color: cornsilk;
+    font-style: italic;
+}
+thead {
+    background-color: slategray;
+}
+
+
